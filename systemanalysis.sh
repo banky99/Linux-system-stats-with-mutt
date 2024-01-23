@@ -4,7 +4,7 @@
 
 # Author: Eshiebor Oshiomegie Festus
 # prereqisit install sudo apt-get install sysstat  and sudo apt-get install net-tools
-# prerequisit install and setup mutt 
+# prerequisit install and setup mutt with your details 
 # Date: 23/11/2023
 
 # Directory paths
