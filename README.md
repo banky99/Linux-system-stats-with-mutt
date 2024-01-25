@@ -1,8 +1,3 @@
-# Linux-system-stats-with-mutt
-Sure, I'll provide you with a detailed README documentation that you can use for your GitHub repository. Make sure to replace the placeholder `<your_email>` with your actual email address.
-
----
-
 # Backup and Metrics Report Script
 
 This Bash script performs backups of a specified folder, captures system metrics including network statistics, and emails reports using the Mutt email client.

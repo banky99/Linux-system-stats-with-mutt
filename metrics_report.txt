@@ -1,9 +1,9 @@
 DayOfWeek | Total_CPU_Usage | Total_Disk_Space_Usage(KB) | Total_Memory_Usage(MB) | Network_Stats
 --------- | --------------- | ------------------------- | ---------------------- | -------------
-Wednesday | 176.37%         | 78.26                     | 1151 MB              | 48746 packets
-Thursday  | 88.36%          | 78.18                     | 1151 MB              | 48748 packets
-Friday    | 68.16%          | 78.10                     | 1151 MB              | 48748 packets
-Saturday  | 71.44%          | 78.03                     | 1152 MB              | 48748 packets
-Sunday    | 61.41%          | 77.96                     | 1152 MB              | 48748 packets
-Monday    | 90.55%          | 77.89                     | 1152 MB              | 48752 packets
-Tuesday   | 55.83%          | 77.81                     | 1152 MB              | 48752 packets
+Thursday  | 412.64%         | 73.18                     | 1074 MB              | 22337 packets
+Friday    | 205.95%         | 72.99                     | 1074 MB              | 22429 packets
+Saturday  | 118.19%         | 72.83                     | 1075 MB              | 22429 packets
+Sunday    | 143.82%         | 72.65                     | 1075 MB              | 22579 packets
+Monday    | 145.43%         | 72.52                     | 1076 MB              | 22611 packets
+Tuesday   | 103.61%         | 72.36                     | 1077 MB              | 22611 packets
+Wednesday | 136.32%         | 72.19                     | 1077 MB              | 22750 packets
